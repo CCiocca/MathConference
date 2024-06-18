@@ -13,8 +13,8 @@ const NavbarCustom = () => {
           <Nav className="ms-auto d-flex ">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/schedule-abstracts">Schedule & Abstracts</Nav.Link>
-            <Nav.Link href="/registration">Registration</Nav.Link>
             <Nav.Link href="/practical-info">Practical Informations</Nav.Link>
+            <Nav.Link href="/registration">Registration</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

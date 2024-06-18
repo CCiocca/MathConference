@@ -7,6 +7,7 @@ import PracticalInformationsPage from './pages/PracticalInformationsPage';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import RegistrationPage from './pages/RegistrationPage';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/" element={<HomePage/>} />
         <Route path="/schedule-abstracts" element={<ScheduleAbstractsPage/>} />
         <Route path="/practical-info" element={<PracticalInformationsPage/>} />
+        <Route path="/registration" element={<RegistrationPage/>} />
 
       </Routes>
       </BrowserRouter>
