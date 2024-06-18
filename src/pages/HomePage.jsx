@@ -1,6 +1,6 @@
-import React from 'react'
 import Navbar from '../components/Navbar'
 import HeroSection from '../components/HeroSection'
+import HomeMain from '../components/HomeMain'
 
 function HomePage() {
   return (
@@ -8,7 +8,7 @@ function HomePage() {
     <Navbar/>
     <HeroSection/>
     <HomeMain/>
-    
+
     </>
   )
 }
