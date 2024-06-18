@@ -7,14 +7,35 @@ const HomeMain = () => {
         </div>
         <div className="speakers">
             <h2>Speakers</h2>
-
+            <ul>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+            </ul>
         </div>
         <div className="organizers">
             <h2>Organizing Committee</h2>
-            
+            <ul>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+            </ul>
         </div>
         <div className="sponsors">
             <h2>Sponsors</h2>
+            <ul>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+                <li>Ugo Bruzzo (SISSA)</li>
+            </ul>
             <div className="sponsor-img">
                 <img src="" alt="" />
             </div>

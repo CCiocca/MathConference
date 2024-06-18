@@ -1,9 +1,12 @@
 import React from 'react';
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import './App.css'
 import HomePage from './pages/HomePage';
 import ScheduleAbstractsPage from './pages/ScheduleAbstractsPage';
 import PracticalInformationsPage from './pages/PracticalInformationsPage';
+
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
 
 function App() {
