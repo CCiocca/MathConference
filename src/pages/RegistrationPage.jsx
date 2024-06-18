@@ -1,14 +1,15 @@
 import HeroSection from '../components/HeroSection'
 import NavbarCustom from '../components/NavbarCustom'
 
-const PracticalInformationsPage = () => {
+const RegistrationPage = () => {
   return (
     <>
     <NavbarCustom/>
     <HeroSection/>
-    <div>Practical Info</div>
+
+    <div>RegistrationPage</div>
     </>
   )
 }
 
-export default PracticalInformationsPage
+export default RegistrationPage

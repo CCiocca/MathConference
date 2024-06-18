@@ -11,17 +11,7 @@ body{
   box-sizing: border-box;
 }
 
-
-.bg-img{
-  height: 50vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  background-image: url('./assets/img/home-bg-img.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
+/* navbar */
 .navbar{
   position: sticky;
   top: 0;
@@ -56,10 +46,42 @@ body{
   outline: none;
 }
 
-section{
+/* hero section */
+
+.hero-section{
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./assets/img/home-bg-img.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.register-btn{
+  border-radius: 50px;
+}
+
+.register-btn a{
+  color: white;
+  text-decoration: none;
+}
+
+/* home main */
+section, .poster{
   margin-top: 4rem;
 }
 
+.poster img{
+  width: 100%;
+  height: auto;
+}
+
+.two-col{
+  display: flex;
+
+}
 /* fonts */
 .ff-msr{
   font-family: "Montserrat", sans-serif;

@@ -6,8 +6,8 @@ import Navbar from 'react-bootstrap/Navbar';
 const NavbarCustom = () => {
   return (
     <>
-    <Navbar collapseOnSelect expand="md" className="bg-body-tertiary nav-text" bg="dark" data-bs-theme="dark">
-      <Container className='me-2 d-flex'>
+    <Navbar collapseOnSelect expand="sm" className="bg-body-tertiary nav-text" bg="dark" data-bs-theme="dark">
+      <Container className='me-2'>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto d-flex ">
@@ -19,7 +19,6 @@ const NavbarCustom = () => {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-    
     </>
     
 

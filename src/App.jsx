@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage/>} />
         <Route path="/schedule-abstracts" element={<ScheduleAbstractsPage/>} />
-        <Route path="/prectical-informations" element={<PracticalInformationsPage/>} />
+        <Route path="/practical-info" element={<PracticalInformationsPage/>} />
 
       </Routes>
       </BrowserRouter>
