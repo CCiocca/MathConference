@@ -43,6 +43,7 @@ const HomeMain = () => {
             <ul>
                 <li>Bernoulli Center for Fundamental Studies</li>
                 <li>Swiss National Science Foundation</li>
+                <li>École Polytechnique Fédérale de Lausanne</li>
             </ul>
             <div className="sponsor-img">
                 <img src="" alt="" />
