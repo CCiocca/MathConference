@@ -25,7 +25,7 @@ body{
   margin-left: 1.1rem
 }
 
-.navbar-toggler{
+.navbar-toggler, .navbar-toggler:active {
   font-size: 0.8rem;
   border: none;
   outline: none;
@@ -36,10 +36,6 @@ body{
   font-weight: bolder;
 }
 
-.navbar-toggler-icon:active{
-  border: none;
-  outline: none;
-}
 
 /* hero section */
 
