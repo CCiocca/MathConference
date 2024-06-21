@@ -8,7 +8,6 @@ const PracticalInformationsPage = () => {
     <NavbarCustom/>
     <HeroSection/>
     <LocationMain/>
-    <div>Practical Info</div>
     </>
   )
 }

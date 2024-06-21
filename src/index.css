@@ -9,11 +9,10 @@ body{
   font-family: "Open Sans", sans-serif;  margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
-  text-align: center;
 }
 
-h2{
-  
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
 }
 
 /* navbar */
@@ -80,7 +79,7 @@ section, .poster{
   color: rgb(207, 0, 0);
 }
 
-/* fonts */
+/* general texts styles */
 .ff-msr{
   font-family: "Montserrat", sans-serif;
 }

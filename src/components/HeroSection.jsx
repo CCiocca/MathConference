@@ -1,4 +1,5 @@
 import { Button } from 'react-bootstrap'
+import { Link } from 'react-router-dom'
 
 const HeroSection = () => {
   return (
@@ -10,7 +11,7 @@ const HeroSection = () => {
         </div>
         <h2 className='fw-bold text-white'>EPFL (Bernoulli Center), Lausanne</h2>
         <Button className='register-btn px-4 py-2 mt-4'>
-          <a href='/registration' className='fw-bold'>Register Now</a>
+          <Link to='/registration' className='fw-bold'>Register Now</Link>
         </Button>
     </div>
   )

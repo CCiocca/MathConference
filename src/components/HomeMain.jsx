@@ -3,7 +3,7 @@ import poster from '../assets/img/poster.jpg';
 const HomeMain = () => {
   return (
     <div className='mx-5'>
-        <div className="intro">
+        <div>
         <h2 className='section-title text-center'>Overview</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis minus voluptas, commodi velit reprehenderit alias laudantium itaque fugit eaque blanditiis culpa incidunt odio vero amet animi. Ullam quam provident commodi doloremque dolorem eos nulla quo odio perferendis, eius at natus!</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, rerum. Est ab facilis laudantium possimus, eligendi modi corporis quae. Repudiandae libero, omnis itaque est eum illo placeat cumque soluta. Quaerat, magni veniam recusandae iusto quam quod molestias, maxime amet ex vitae molestiae. Quia cupiditate reprehenderit hic rerum facere pariatur vero?</p>
