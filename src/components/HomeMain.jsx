@@ -4,12 +4,13 @@ const HomeMain = () => {
   return (
     <div className='mx-5'>
         <div className="intro">
-            <p>The main theme of this workshop is Enumerative Geometry, with particular emphasis on the geometry of moduli spaces and their refined invariants. The workshop consists in several plenary talks given by international experts, and aims to foster the collaboration among researchers interested in Enumerative Geometry in a broad sense.</p>
-            <p>There will be a special journal section in RIMUT (Rendiconti dell’Istituto di Matematica dell’Università di Trieste. An International Journal of Mathematics), dedicated to the themes of the conference. Everyone is welcome to contribute (submissions go through the usual refereeing system, see https://rendiconti.dmi.units.it). The deadline for paper submissions is January 31, 2024.</p>
+        <h2 className='section-title text-center'>Overview</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis minus voluptas, commodi velit reprehenderit alias laudantium itaque fugit eaque blanditiis culpa incidunt odio vero amet animi. Ullam quam provident commodi doloremque dolorem eos nulla quo odio perferendis, eius at natus!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, rerum. Est ab facilis laudantium possimus, eligendi modi corporis quae. Repudiandae libero, omnis itaque est eum illo placeat cumque soluta. Quaerat, magni veniam recusandae iusto quam quod molestias, maxime amet ex vitae molestiae. Quia cupiditate reprehenderit hic rerum facere pariatur vero?</p>
         </div>
         <div className='d-sm-flex align-items-start'>
             <section className='col-6'>
-                <h2 className='ff-msr'>Speakers</h2>
+                <h2 className='section-title'>Speakers</h2>
                 <h3>Mini-courses</h3>
                 <ul>
                     <li>Denis Nesterov (University of Vienna)</li>
@@ -32,14 +33,14 @@ const HomeMain = () => {
             </div>
         </div>
         <section>
-            <h2 className='ff-msr'>Organizing Committee</h2>
+            <h2 className='section-title'>Organizing Committee</h2>
             <ul>
                 <li>Sergej Monavari (EPFL, Lausanne, CH)</li>
                 <li>Eric Chen (EPFL, Lausanne, CH)</li>
             </ul>
         </section>
         <section>
-            <h2 className='ff-msr'>Sponsors</h2>
+            <h2 className='section-title'>Sponsors</h2>
             <ul>
                 <li>Bernoulli Center for Fundamental Studies</li>
                 <li>Swiss National Science Foundation</li>

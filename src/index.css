@@ -9,6 +9,11 @@ body{
   font-family: "Open Sans", sans-serif;  margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
+  text-align: center;
+}
+
+h2{
+  
 }
 
 /* navbar */
@@ -80,4 +85,9 @@ section, .poster{
   font-family: "Montserrat", sans-serif;
 }
 
+.section-title{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  color: blue;
+}
 
