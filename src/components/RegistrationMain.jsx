@@ -7,7 +7,8 @@ const RegistrationMain = () => {
   return (
     <div className='mx-5'>
         <h2 className='ff-msr'>Registration</h2>
-        <p>The registration to the event is free but mandatory, please follow the <a href="https://docs.google.com/forms/d/e/1FAIpQLSceurhndWKw2h7N9nw_2xmBXcCTZU1h-UbUC5QsEPtXlgPapA/viewform?usp=sf_link">link</a>. We have limited funds to cover travel and accommodation expenses for young participants.</p>
+        <p>The registration to the event is free but mandatory, please follow the <a href="https://docs.google.com/forms/d/e/1FAIpQLSceurhndWKw2h7N9nw_2xmBXcCTZU1h-UbUC5QsEPtXlgPapA/viewform?usp=sf_link">link</a>.
+        <br /> We have limited funds to cover travel and accommodation expenses for young participants.</p>
         
         <div className='mt-5 d-flex align-items-center'>
             <div className="col-2">
