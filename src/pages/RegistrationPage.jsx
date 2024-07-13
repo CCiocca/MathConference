@@ -1,4 +1,5 @@
-import HeroSection from '../components/HeroSection'
+import FooterSponsors from '../components/FooterSponsors'
+import HeroSectionRegistration from '../components/HeroSectionRegistration'
 import NavbarCustom from '../components/NavbarCustom'
 import RegistrationMain from '../components/RegistrationMain'
 
@@ -6,8 +7,9 @@ const RegistrationPage = () => {
   return (
     <>
     <NavbarCustom/>
-    <HeroSection/>
+    <HeroSectionRegistration/>
     <RegistrationMain/>
+    <FooterSponsors/>
     </>
   )
 }

@@ -1,7 +1,7 @@
 
 const LocationMain = () => {
   return (
-    <div className='mx-5'>
+    <div className='main'>
       <h2 className='section-title'>Location</h2>
 
       <div>

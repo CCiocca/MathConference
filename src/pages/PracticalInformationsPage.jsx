@@ -1,3 +1,4 @@
+import FooterSponsors from '../components/FooterSponsors'
 import HeroSection from '../components/HeroSection'
 import LocationMain from '../components/LocationMain'
 import NavbarCustom from '../components/NavbarCustom'
@@ -8,6 +9,7 @@ const PracticalInformationsPage = () => {
     <NavbarCustom/>
     <HeroSection/>
     <LocationMain/>
+    <FooterSponsors/>
     </>
   )
 }

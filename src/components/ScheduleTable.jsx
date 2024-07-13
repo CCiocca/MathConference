@@ -1,6 +1,8 @@
 const ScheduleTable = () => {
   return (
-    <div>ScheduleTable</div>
+    <div className='main'>
+      ScheduleTable
+    </div>
   )
 }
 
